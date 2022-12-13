@@ -1,5 +1,5 @@
 {
-  "name": "@chocolatelib/utils",
+  "name": "@chocolatelib/string",
   "version": "0.0.2",
   "main": "dist/index.cjs",
   "module": "dist/index.js",
@@ -28,10 +28,10 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ChocolateLib/utils.git"
+    "url": "git+https://github.com/ChocolateLib/string.git"
   },
   "bugs": {
-    "url": "https://github.com/ChocolateLib/utils/issues"
+    "url": "https://github.com/ChocolateLib/string/issues"
   },
-  "homepage": "https://github.com/ChocolateLib/utils#readme"
+  "homepage": "https://github.com/ChocolateLib/string#readme"
 }
